@@ -5,4 +5,4 @@ Scripts
 pyvenv.cfg
 .vscode
 node_modules
-bundle
+dist
