@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es3",
+    "allowJs": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "noEmitOnError": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true
+  },
+  "exclude": ["./node_modules/**/*"]
+}
